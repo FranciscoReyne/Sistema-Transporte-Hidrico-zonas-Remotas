@@ -116,6 +116,7 @@ La temperatura ambiente
 El perfil de elevación del terreno
 Los requerimientos específicos de caudal
 
+Antes de tomar una decisón por favor verifique los datos usados en mi aproximación.
 **************
 
 
