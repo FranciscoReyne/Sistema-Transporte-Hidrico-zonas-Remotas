@@ -1,5 +1,5 @@
 
-# Proyecto de transporte de agua con análisis comparativo entre el método convencional y la transformación por electrólisis.
+# Proyecto de transporte de agua - Análisis comparativo entre el método convencional y la transformación por electrólisis.
 
 Por FranciscoReyne.
 
