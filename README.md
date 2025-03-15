@@ -1,6 +1,8 @@
 
 # Proyecto de transporte de agua - Análisis comparativo entre el método convencional y la transformación por electrólisis.
 
+Este es un problema hipotetico que propone determinar a qué distancia se vuelve más eficiente transportar agua en forma de hidrógeno y oxígeno (mediante electrólisis previa) en comparación con transportarla como agua líquida a través de una tubería de 2 metros de diámetro. La cuestión central es encontrar el punto de equilibrio donde la alta inversión energética inicial de la electrólisis se compensa con la menor resistencia al flujo de los gases en largas distancias.
+
 Por FranciscoReyne.
 
 # Método
